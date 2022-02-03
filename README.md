@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bode776
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning web dev
